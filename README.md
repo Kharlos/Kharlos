@@ -3,13 +3,8 @@
 
 <p align="center">
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Carlos Blanco..&hearts;++;Android Developer... ;);Engineer, PetLover and Gamer,;Welcome to my github profile,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3)](https://git.io/typing-svg)
 
-
-  </a>
 </p>
 
 
