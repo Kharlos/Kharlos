@@ -39,7 +39,7 @@
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Huawei Mobile Services](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
-![Firebase](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 </p>
 
 <br>
