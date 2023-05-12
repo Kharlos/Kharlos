@@ -24,7 +24,7 @@
 
 <p align="center">
 
-![Kotlin](https://img.shields.io/badge/Kotlin%20-%232370ED.svg?style=for-the-badge&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/Kotlin%20-%232370ED.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
