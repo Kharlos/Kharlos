@@ -14,9 +14,7 @@
 - A passionate Android Developer and engineering stuffs
 - Currently working as Android Dev @Globant
 - Personal website [link](https://www.Kharlos.ml)
-- Here you can find my cv this is [my resume]([https://read.cv/Kharlos](https://firebasestorage.googleapis.com/v0/b/cblanco-3748c.appspot.com/o/cv_cblanco_en.pdf?alt=media&token=fc834afd-1477-4681-bb07-56b06f5ba006))
-
-## <picture><img src = "https://github.com/Kharlos/Kharlos/blob/main/raw/images/us.png" width = 25px heigth = 25px></picture> **About me**
+- Here you can find my cv this is [my resume]([https://read.cv/Kharlos](https://firebasestorage.googleapis.com/v0/b/cblanco-3748c.appspot.com/o/cv_cblanco_en.pdf?alt=media&token=fc834afd-1477-4681-bb07-56b06f5ba006)) <a href="https://read.cv/Kharlos](https://firebasestorage.googleapis.com/v0/b/cblanco-3748c.appspot.com/o/cv_cblanco_en.pdf?alt=media&token=fc834afd-1477-4681-bb07-56b06f5ba006"><picture><img src = "https://github.com/Kharlos/Kharlos/blob/main/raw/images/us.png" width = 25px heigth = 25px></picture></a>
 
 - ![cv_en](https://github.com/Kharlos/Kharlos/blob/main/raw/images/us.png)
 - ![cv_es](https://github.com/Kharlos/Kharlos/blob/main/raw/images/spain.png)
