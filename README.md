@@ -15,7 +15,8 @@
 - Currently working as Android Dev @Globant
 - Personal website [link](https://www.Kharlos.ml)
 - Here you can find my cv this is [my resume]([https://read.cv/Kharlos](https://firebasestorage.googleapis.com/v0/b/cblanco-3748c.appspot.com/o/cv_cblanco_en.pdf?alt=media&token=fc834afd-1477-4681-bb07-56b06f5ba006))
-- ![alt text](gs://cblanco-3748c.appspot.com/us.png)
+- ![cv_en](https://github.com/Kharlos/Kharlos/blob/main/raw/images/us.png)
+- ![cv_es](https://github.com/Kharlos/Kharlos/blob/main/raw/images/us.png)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
