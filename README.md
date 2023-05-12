@@ -14,7 +14,7 @@
 - A passionate Android Developer and engineering stuffs
 - Currently working as Android Dev @Globant
 - Personal website [link](https://www.Kharlos.ml)
-- Here you can find my cv this is <a target=”_blank” href="https://firebasestorage.googleapis.com/v0/b/cblanco-3748c.appspot.com/o/cv_cblanco_en.pdf?alt=media&token=fc834afd-1477-4681-bb07-56b06f5ba006"><picture><img src = "https://github.com/Kharlos/Kharlos/blob/main/raw/images/us.png" width = 25px heigth = 25px></picture></a> <a target=”_blank” href="https://firebasestorage.googleapis.com/v0/b/cblanco-3748c.appspot.com/o/cv_cblanco_es.pdf?alt=media&token=fc834afd-1477-4681-bb07-56b06f5ba006"><picture><img src = "https://github.com/Kharlos/Kharlos/blob/main/raw/images/spain.png" width = 25px heigth = 25px></picture></a>
+- Here you can find my cv this is <a target="_blank" href="https://firebasestorage.googleapis.com/v0/b/cblanco-3748c.appspot.com/o/cv_cblanco_en.pdf?alt=media&token=fc834afd-1477-4681-bb07-56b06f5ba006"><picture><img src = "https://github.com/Kharlos/Kharlos/blob/main/raw/images/us.png" width = 25px heigth = 25px></picture></a> <a target="_blank" href="https://firebasestorage.googleapis.com/v0/b/cblanco-3748c.appspot.com/o/cv_cblanco_es.pdf?alt=media&token=dd622219-306b-4f53-a2b3-c71e760a7431"><picture><img src = "https://github.com/Kharlos/Kharlos/blob/main/raw/images/spain.png" width = 25px heigth = 25px></picture></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
